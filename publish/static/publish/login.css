@@ -1,0 +1,36 @@
+/* CSS Document */
+
+body{
+     margin:0px;
+     padding:0px;
+     font-family:Verdana, Geneva, sans-serif;
+     font-size:12px; color:#FFF;
+     background: url("images/bg.jpg") no-repeat;
+     background-size:cover 
+
+}
+
+.logindiv{
+//  background: url("images/login_bg.png") no-repeat;
+  background-size:cover; 
+  text-align:center;
+  margin-top:200px ;
+  margin-left:200px
+//  width:300px  ;
+//  height:300px
+
+}
+
+
+.1loginForm { 
+//    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2), 0 1px 1px rgba(0, 0, 0, 0.2), 0 3px 0 #fff, 0 4px 0 rgba(0, 0, 0, 0.2), 0 6px 0 #fff, 0 7px 0 rgba(0, 0, 0, 0.2); 
+//    position:absolute; 
+//    z-index:0; 
+    background-color:#FFF; 
+    border-radius:4px; 
+    height:250px; 
+    width:380px; 
+    background: -webkit-gradient(linear, left top, left 24, from(#EEE), color-stop(4%, #FFF), to(#EEE)); 
+    background: -moz-linear-gradient(top, #EEE, #FFF 1px, #EEE 24px); 
+    background: -o-linear-gradient(top, #EEEEEE, #FFFFFF 1px, #EEEEEE 24px); 
+} 
